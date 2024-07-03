@@ -14,9 +14,9 @@
 ---
 include:
   - board: seeeduino_xiao_ble
-    shield: chipper42_left
+    shield: base_left
   - board: seeeduino_xiao_ble
-    shield: chipper42_right
+    shield: base_right
 #  - board: planck_rev6
 #  - board: corneish_zen_v2_left
 #  - board: corneish_zen_v2_right
